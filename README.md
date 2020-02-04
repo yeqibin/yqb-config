@@ -15,7 +15,7 @@ Configures for iterm2, Emacs etc.
 
 5. 把iTerm2字体设置为Meslo LG M DZ
 
-   ### 安装oh-my-zsh
+### 安装oh-my-zsh
 
 1. github：https://github.com/robbyrussell/oh-my-zsh
 
