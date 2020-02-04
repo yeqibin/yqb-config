@@ -3,17 +3,17 @@ Configures for iterm2, Emacs etc.
 
 ## Mac下终端设置
 
-1. 安装iTerm2
+### 安装iTerm2
 
-2. iTerm2 -> Make iTerm2 Default Term
+1. iTerm2 -> Make iTerm2 Default Term
 
-3. preference -> Keys -> **Hotkey** Show/hide iTerms2 with a system-wide hotkey
+2. preference -> Keys -> **Hotkey** Show/hide iTerms2 with a system-wide hotkey
 
-4. 配色选择Solarized-Dark
+3. 配色选择Solarized-Dark
 
-5. 安装powerline字体
+4. 安装powerline字体
 
-6. 把iTerm2字体设置为Meslo LG M DZ
+5. 把iTerm2字体设置为Meslo LG M DZ
 
    ### 安装oh-my-zsh
 
